@@ -6,3 +6,5 @@ Let's see if these changes are tracked with diff command
 This is the example they run with the diff command
 
 this is a change to the file
+
+Adding a new line CONFLICT
