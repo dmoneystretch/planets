@@ -2,4 +2,5 @@ tssfsd dsfsdf ffk ks vm s
 
 A second line in mars . text
 
-LEt's see if these changes are tracked with diff command
+Let's see if these changes are tracked with diff command
+This is the example they run with the diff command

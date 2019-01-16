@@ -1,1 +1,3 @@
 A second text file on venus
+
+My log file showed two entries
